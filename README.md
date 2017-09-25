@@ -1,1 +1,3 @@
-# m-lkky_s3a
+Version modifiée dans le cadre de l'exercice de TDD
+
+Enzo Dal Cerro / Adrien Bénard /
